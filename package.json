@@ -1,0 +1,23 @@
+{
+  "name": "excel-js",
+  "version": "1.0.0",
+  "description": "Pure Javascript excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radonevsky/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Radonevsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radonevsky/excel-js/issues"
+  },
+  "homepage": "https://github.com/Radonevsky/excel-js#readme"
+}
